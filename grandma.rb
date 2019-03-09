@@ -1,8 +1,7 @@
-speak_to_grandma = "cuddly" 
-  if dog == "hungry" puts "Refilling food bowl." 
-    elsif dog == "thirsty" puts "Refilling water bowl" 
-    elsif dog == "playful" puts "Playing tug-of-war." 
-    elsif dog == "cuddly" puts "Snuggling." 
+speak_to_grandma = "HUH?! SPEAK UP, SONNY!" 
+  if speak_to_grandma == "hungry" puts "Refilling food bowl." 
+    elsif speak_to_grandma == "thirsty" puts "Refilling water bowl" 
+    elsif speak_to_grandma == "cuddly" puts "HUH?! SPEAK UP, SONNY!" 
   
-  else puts "Reading newspaper." end
+  else puts "HUH?! SPEAK UP, SONNY!" end
 
